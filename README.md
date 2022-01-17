@@ -17,7 +17,7 @@ pip install requests
 ```
 
 # Instagram data
-- <i>Goal:</i> get user data from instagrma profile, such as bio, followers, following, private account
+- <i>Goal:</i> get user data from Instagram profile, such as bio, followers, following, private account
 - It's necessary to log in with an instagram user
 - Install package: instaloader
 ```
