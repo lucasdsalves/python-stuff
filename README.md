@@ -7,6 +7,7 @@ Sorted python small programs with different goals.
 ### Table of contents
 **[Stock prices](#stock-prices)**<br>
 **[Instagram data](#instagram-data)**<br>
+**[Captcha](#generate-captcha)**<br>
 
 # Stock prices 
 - <i>Goal:</i> get a stock price from TwelveData API
@@ -22,4 +23,16 @@ pip install requests
 - Install package: instaloader
 ```
 pip install instaloader
+```
+
+# Generate captcha
+- <i>Goal:</i> generate captcha .png image with random text
+```
+pip install captcha
+```
+
+<br>
+Ps.: If pip command is not recognized, it's possible to try
+```
+py -m pip install packageName
 ```
